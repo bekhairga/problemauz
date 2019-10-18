@@ -1,0 +1,26 @@
+.carousel-item img{
+    height: 500px;
+}
+
+header nav{
+    margin: 0 0 10px 0;
+}
+
+.last-news{
+    padding: 25px
+}
+.logo{
+    margin: 0 auto;
+}
+.user-logo{
+    width: 50px;
+    height: 50px;
+    margin: 0 auto;
+}
+.login{
+    position: sticky;
+}
+.news{
+    width: 800px;
+    margin: 0 auto;
+}
